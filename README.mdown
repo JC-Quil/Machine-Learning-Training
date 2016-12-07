@@ -1,0 +1,4 @@
+# Machine Learning Training
+
+Training projects in Machine Learning including supervised and unsupervised
+learning using Python 2.7 code.
